@@ -11,6 +11,8 @@
 - **git add README.md** 
 ### 왜 push 하는지 comment 부착하기
 - **git commit -m "comment"**
+### 원격 Repository 와 로컬 Repository 연결하기
+- git remote add origin https://github.com/hykim6856/2023-11-pushpractice.git
 ### 원격 Repository 에 push하기
 - **git push -u origin main** 명령 실행하여 github에 push
 - 최초 push이후 **git push**만으로 push가능 
